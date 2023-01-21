@@ -1,0 +1,108 @@
+/*https://colorhunt.co/palette/ffe1e190a17d829460eeeeee*/
+body{
+    margin:auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+.top-container{
+    background: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+.button-1 {
+  background-color: #11999E;
+  border-radius: 15px;
+  border-style: none;
+  font-size: 14px;
+  font-weight: 500;
+  height: 50px;
+  width: 130px;
+  line-height: 20px;
+  margin: 30px;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  transition: color 100ms;
+}
+
+.button-1:hover,.button-1:focus {
+  background-color: #fefefe;
+}
+.contact-me a{
+    color: #FFFFFF;
+}
+.contact-me a:hover{
+    color: #11999E;
+}
+.intro{
+    display: block;
+    width: 400px;
+    margin: auto auto 30px auto;
+}
+p{
+    margin-bottom: 0px;
+    font-weight: 200px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.chillie{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.computer{
+    border-radius: 100px;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 35px;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  #11999E;
+}
+a{
+    color:  #11999E;
+}
+
+
+
+.middle-container{
+    position: relative;
+    margin-top: 50px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin: auto;
+    padding: 20px;
+}
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.personal-photo{
+    height: 300px;
+}
